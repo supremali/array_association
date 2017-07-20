@@ -33,9 +33,9 @@ end
 ```
 
 in this case the following methods will be defined:
-* orders, which returns collection of Order
-* order_ids=, which sets normalized order_ids
-* orders=(values), which maps collection and sets order_ids
+* `orders`, which returns collection of Order
+* `order_ids=`, which sets normalized order_ids
+* `orders=(values)`, which maps collection and sets order_ids
 
 ## Development
 
